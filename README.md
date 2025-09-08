@@ -522,7 +522,7 @@ Prefect API key is stored securely in AWS Secrets Manager under the secret named
   Variable-driven infrastructure and remote state management (S3 + DynamoDB lock) provided a practical lesson in scalable, collaborative IaC and how to keep cloud state consistent for teams.
 
 ***
-
+<!-- 
 ## Recommendations for Improvement
 
 - **Enable Auto-Scaling:**  
@@ -542,4 +542,4 @@ Prefect API key is stored securely in AWS Secrets Manager under the secret named
 
 - **Add CI/CD Pipeline:**  
   Automate Terraform plan/apply and code validation using a CI/CD system to make deployments safer and more collaborative.
-
+ -->
